@@ -1,0 +1,4 @@
+name: test_env
+channels:
+  - defaults
+prefix: /Users/nips/opt/anaconda3/envs/test_env

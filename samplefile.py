@@ -1,1 +1,1 @@
-print("to upload to git for testing purpose")
+print("to upload to git for testing purpose using conda")
